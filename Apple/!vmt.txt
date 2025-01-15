@@ -1,0 +1,44 @@
+          [ I/O Priority - Nonroot ]
+                   Author 
+     Telegram Yeye_nat | Github Yeye-PID
+                version : 1.0
+       ////////////////\\\\\\\\\\\\\\\\
+            install with > Brevent
+            
+            
+Disclemoer shell :
+- Shell script ini saya bikin untuk menyesusaikan priortas I/O ketika diguakan gaming And dayli 
+
+Dengan Cara :
+- Mendeteksi Aplikasi mana aja yang di priortaskan ke mode High priority atau Low priority I/O
+
+Efek yang didapat Ketika mengguakan script :
+- Mengotimalkan Performance
+- Stabilisasi sumber daya sistem
+- Efisensi sistem
+- pengalaman penggua yang lebih baik 
+dill
+
+Recomened :
+- Gaming
+- Multiasking
+
+Note :
+- shell script ini tidak meyebabkan Aplikasi mana pun Crash dan lag dikerenakan sudah saya susun seteliti mungkin agar tidak bedampak pada aplikasi manapun dill..
+
+Penanggung Jawab 100% By :
+- @Yeye_nat | Telegram
+- Yeye-PID   | Github
+
+install :
+Ekstrak dulu ' zip ' Ke internal
+Lalu Jalankan Perintah down Here :
+sh /sdcard/Apple/run.sh
+
+uninstall : 
+sh /sdcard/Apple/run.sh kill
+
+Disclemoer Efek :
+- Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% dill..
+
+⚠️ Especially for those who want to use my script in your Module, please contact me & add credit @Yeye_nat
